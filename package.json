@@ -1,0 +1,23 @@
+{
+  "name": "yahoo-finance-scraper",
+  "version": "1.0.0",
+  "description": "testing scraping for yahoo finance dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Vdim-Hub/yahoo-finance-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Git-Vdim-Hub/yahoo-finance-scraper/issues"
+  },
+  "homepage": "https://github.com/Git-Vdim-Hub/yahoo-finance-scraper#readme",
+  "dependencies": {
+    "yahoo-finance2": "^2.4.4"
+  }
+}
